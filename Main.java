@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Zadanie 3");
+        //System.out.println("Zadanie 3");
 
 
         // W sklepie ze sprzetem AGD oferowana jest sprzedaz ratlana.
