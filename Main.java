@@ -69,7 +69,7 @@ public class Main {
 //            System.out.println("Cała kwota wynosi: " + lacznawartosc + " zł.");
 //            System.out.println("Rata miesięczna wynosi: " + rata + " zł.");
 //        }
-                            //KALKULATOR ZADANIE//
+                                         //KALKULATOR ZADANIE//
 //        boolean done= false;
 //        while(!done) {
 //            try {
@@ -97,23 +97,21 @@ public class Main {
 //                        System.out.println(first * second);
 //                        break;
 //                    case "/":
-//                        if ( == 0){
+//                        if ( ==0){
 //                        System.out.println(first / second);
 //                    }
 //                        else{
 //                        System.out.println("Nie dzieli się przez zero. Proszę podać inny znak.");
 //                    }
-//                        break;
+//                    break;
 //                    default:
 //                        System.out.println("Prosimy podać odpowiedni znak");
 //                }
 //                done = true;
-//        catch(InputMismatchException exception){
+//            }catch(InputMismatchException e){
 //                    System.out.println("Proszę podać liczbę całkowitą");
 //                }
 //            }
-//        }
-
 
         }
     }
